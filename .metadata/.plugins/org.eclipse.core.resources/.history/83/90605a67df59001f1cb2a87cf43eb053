@@ -1,0 +1,19 @@
+package in.lalit.target;
+
+import in.lalit.dependant.IDependant;
+
+public class StudentImpl implements IDependant {
+
+	@Override
+	public String javaCourse() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

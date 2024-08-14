@@ -1,0 +1,17 @@
+package in.lalit.dependant;
+
+public class JavaCImpl implements IDependant {
+
+	@Override
+	public String course() {
+		System.out.println("Dot net course material");
+		return "1. c#JavaScript 2.c#Python";
+	}
+
+	@Override
+	public double price() {
+		System.out.println("Dot net price ");
+		return 500;
+	}
+
+}

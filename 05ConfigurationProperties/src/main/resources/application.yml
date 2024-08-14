@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: 05ConfigurationProperties
+in:
+  data:
+    id: 2
+    name: Aman
+    company:
+      name: Amazon
+      location: Bengaluru
+      size: 100
+    skill-set:
+    - JAVA
+    - SPRING
+    - JEE
+    - MICROSERVICES

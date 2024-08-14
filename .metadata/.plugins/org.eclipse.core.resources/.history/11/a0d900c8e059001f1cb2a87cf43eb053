@@ -1,0 +1,7 @@
+package in.lalit.dependant;
+
+public interface IDependant {
+
+	public String javaCourse();
+	public double price();
+}

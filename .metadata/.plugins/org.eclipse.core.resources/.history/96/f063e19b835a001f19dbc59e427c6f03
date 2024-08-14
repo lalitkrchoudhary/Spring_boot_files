@@ -1,0 +1,46 @@
+package in.lalit.comp;
+
+public class Employee {
+
+	private String name;
+	private long id;
+	private Company company;
+	
+	
+	public String getName() {
+		return name;
+	}
+
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+
+	public long getId() {
+		return id;
+	}
+
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+
+	public Company getCompany() {
+		return company;
+	}
+
+
+	public void setCompany(Company company) {
+		this.company = company;
+	}
+
+
+	@Override
+	public String toString() {
+		return "Employee [name=" + name + ", id=" + id + ", company=" + company + "]";
+	}
+	
+	
+}

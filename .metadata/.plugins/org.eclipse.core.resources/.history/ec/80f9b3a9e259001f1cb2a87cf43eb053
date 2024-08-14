@@ -1,0 +1,13 @@
+package in.lalit;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SecondProject2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SecondProject2Application.class, args);
+	}
+
+}

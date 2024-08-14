@@ -1,0 +1,7 @@
+spring.application.name=05ConfigurationProperties
+
+in.data.id=1
+in.data.name=Aman
+in.data.company.name=Amazon
+in.data.company.location=Bengaluru
+in.data.company.size= 100

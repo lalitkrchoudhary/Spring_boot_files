@@ -1,0 +1,17 @@
+package in.lalit.dependant;
+
+public class JavaCImpl implements IDependant {
+
+	@Override
+	public String course() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

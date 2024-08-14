@@ -1,0 +1,5 @@
+spring.application.name=ConfigurationProperties4
+
+org.lalit.name=Lalit
+org.lalit.address=Bangulur
+org.lalit.type=IT

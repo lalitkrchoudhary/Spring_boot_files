@@ -1,0 +1,20 @@
+package in.lalit.dependant;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class DotNetImpl implements IDependant{
+
+	@Override
+	public String course() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

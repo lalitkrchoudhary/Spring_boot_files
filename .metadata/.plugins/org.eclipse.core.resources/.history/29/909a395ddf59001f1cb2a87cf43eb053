@@ -1,0 +1,17 @@
+package in.lalit.dependant;
+
+public class DotNetImpl implements IDependant{
+
+	@Override
+	public String javaCourse() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public double price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
