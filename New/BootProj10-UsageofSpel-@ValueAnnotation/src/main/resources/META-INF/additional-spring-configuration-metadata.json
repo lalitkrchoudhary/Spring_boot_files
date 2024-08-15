@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "items.info.idlyPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'items.info.idlyPrice'"
+  },
+  {
+    "name": "items.info.dosaPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'items.info.dosaPrice'"
+  },
+  {
+    "name": "items.info.vadaPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'items.info.vadaPrice'"
+  }
+]}

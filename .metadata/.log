@@ -652,3 +652,186 @@ java.lang.NullPointerException: Property must not be null: range
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:18:19.506
+!MESSAGE Classpath changed for project: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:18:19.641
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:18:19.642
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:18:19.643
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:18:19.681
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:18:19.733
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:18:19.760
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:18:25.101
+!MESSAGE Classpath changed for project: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:18:25.101
+!MESSAGE Boot project ADDED: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:18:26.051
+!MESSAGE Classpath changed for project: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:18:27.250
+!MESSAGE Classpath changed for project: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:19:53.267
+!MESSAGE Classpath changed for project: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:19:53.548
+!MESSAGE Classpath changed for project: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:19:53.628
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:19:53.629
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:19:53.630
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:19:53.636
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:19:53.653
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-15 05:19:53.661
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:19:57.094
+!MESSAGE Classpath changed for project: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-15 05:19:57.095
+!MESSAGE Boot project ADDED: BootProj06-RealTimeDIUsingYML
+!SESSION 2024-08-16 02:19:18.876 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-08-16 02:19:41.259
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-16 02:19:42.067
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-08-16 02:19:48.090
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-16 02:19:50.080
+!MESSAGE Logback config file: /home/lalit/spring_boot_files/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-16 02:19:51.855
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-16 02:19:51.855
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-16 02:19:52.909
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-16 02:19:52.909
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.036
+!MESSAGE Boot project ADDED: 05ConfigurationProperties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.040
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.220
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.221
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.222
+!MESSAGE Boot project ADDED: BootProj03-RealTimeDependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.224
+!MESSAGE Boot project ADDED: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.225
+!MESSAGE Boot project ADDED: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.226
+!MESSAGE Boot project ADDED: ConfigurationProperties4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.227
+!MESSAGE Boot project ADDED: FirstProject1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-16 02:20:09.454
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/lalit/spring_boot_files/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1723755009452
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:09.454
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-16 02:20:09.560
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 564921
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 02:20:10.740
+!MESSAGE Boot project ADDED: SecondProject2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:07:25.793
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:07:29.759
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:07:29.759
+!MESSAGE Boot project ADDED: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:07:30.646
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:07:32.258
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:07:33.015
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 03:07:56.301
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 03:07:56.302
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 03:07:56.304
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 03:07:56.306
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 03:07:56.324
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 03:07:56.329
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:08:23.567
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration

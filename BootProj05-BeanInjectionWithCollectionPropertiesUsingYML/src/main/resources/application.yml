@@ -1,0 +1,38 @@
+emp:
+  info:
+    #HAS-A property
+    company:
+      location: Bandra
+      name: MI
+      size: 35
+      
+    #Field Injection
+    id: 10
+    name: sachin
+    
+    #Map Injection
+    id-details:
+      adharNo: 7645345
+      panNo: 232345
+      voterId: 2323454
+    
+    #Set Injection
+    mobile-numbers:
+    - 9997778886
+    - 6667778889
+    - 5556667776
+    - 5556667776
+    
+    #Array Injection
+    project-names:
+    - IND
+    - World1X
+    - Mumbai
+    - Asia1X
+    
+    #List Injection
+    skill-set:
+    - java
+    - jee
+    - ORM
+    - SpringBoot

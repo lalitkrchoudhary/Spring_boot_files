@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: root123
+    url: jdbc:mysql:///enterprisejavabatch
+    username: root
