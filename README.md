@@ -390,7 +390,9 @@ pom.xml
 <artifactId>mysql-connector-j</artifactId>
 <scope>runtime</scope>
 </dependency>
-#MAVEN PROJECT MANAGEMENT TOOLS
+
+MAVEN PROJECT MANAGEMENT TOOLS
+==============================
 What is build process?
 Keeping resources ready=> Arranging them in various folders=> add libraries/jar
 to classpath => compilation => execution=> testing
