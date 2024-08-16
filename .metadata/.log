@@ -1056,3 +1056,99 @@ java.lang.StringIndexOutOfBoundsException: start -1, end 6, length 620
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 06:44:41.171
 !MESSAGE Classpath changed for project: MavenProject1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:13.601
+!MESSAGE Classpath changed for project: Hibernate-01
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:13.632
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:13.633
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:13.641
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:13.642
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:13.666
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:13.677
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:13.836
+!MESSAGE Classpath changed for project: Hibernate-01
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:25.224
+!MESSAGE Classpath changed for project: Hibernate-01
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:25.277
+!MESSAGE Classpath changed for project: Hibernate-01
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:31.265
+!MESSAGE Classpath changed for project: Hibernate-02
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:31.349
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:31.349
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:31.350
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:31.351
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:31.360
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:31.364
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:31.631
+!MESSAGE Classpath changed for project: Hibernate-02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:31.778
+!MESSAGE Classpath changed for project: Hibernate-01
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:32.919
+!MESSAGE Classpath changed for project: Hibernate-02
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:51.055
+!MESSAGE Classpath changed for project: SpringMavenProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:51.351
+!MESSAGE Classpath changed for project: SpringMavenProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:57.144
+!MESSAGE Classpath changed for project: SpringMavenProject
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:57.145
+!MESSAGE Boot project ADDED: SpringMavenProject
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:57.282
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:57.283
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:57.284
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:57.285
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:39:57.318
+!MESSAGE Classpath changed for project: SpringMavenProject
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:57.327
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 08:39:57.330
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 08:40:06.561
+!MESSAGE Classpath changed for project: SpringMavenProject
