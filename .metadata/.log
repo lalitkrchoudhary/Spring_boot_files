@@ -835,3 +835,151 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 03:08:23.567
 !MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 04:09:03.236
+!MESSAGE Classpath changed for project: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-08-16 04:10:51.963
+!MESSAGE Could not get trigger characters due to timeout after 50 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$InternalListener.verifyKey(ContentAssistant.java:835)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1555)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1538)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1316)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5855)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1555)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1538)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1577)
+	at org.eclipse.swt.widgets.Widget.gtk_key_press_event(Widget.java:937)
+	at org.eclipse.swt.widgets.Control.gtk_key_press_event(Control.java:4049)
+	at org.eclipse.swt.widgets.Composite.gtk_key_press_event(Composite.java:931)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:2507)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:6883)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6162)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_do_event(Native Method)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1598)
+	at org.eclipse.swt.internal.gtk3.GTK3.gtk_main_iteration_do(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4514)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:11:59.378
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:11:59.385
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:11:59.386
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:11:59.387
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:11:59.401
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:11:59.410
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:25:33.781
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:25:33.983
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:25:33.984
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:25:33.984
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:25:33.988
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-16 04:25:33.991
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:34.906
+!MESSAGE Classpath changed for project: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:35.423
+!MESSAGE Classpath changed for project: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:47.231
+!MESSAGE Classpath changed for project: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:47.231
+!MESSAGE Boot project ADDED: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:49.404
+!MESSAGE Classpath changed for project: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:57.269
+!MESSAGE Classpath changed for project: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:16:57.669
+!MESSAGE Classpath changed for project: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:00.221
+!MESSAGE Classpath changed for project: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:00.223
+!MESSAGE Boot project ADDED: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:00.330
+!MESSAGE Classpath changed for project: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:01.401
+!MESSAGE Classpath changed for project: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:16.091
+!MESSAGE Classpath changed for project: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:16.403
+!MESSAGE Classpath changed for project: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:16.619
+!MESSAGE Classpath changed for project: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:17.945
+!MESSAGE Classpath changed for project: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-16 05:17:17.945
+!MESSAGE Boot project ADDED: BootProj10-UsageofSpel-@ValueAnnotation
