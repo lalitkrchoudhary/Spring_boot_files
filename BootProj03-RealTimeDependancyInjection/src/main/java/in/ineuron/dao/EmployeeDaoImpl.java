@@ -25,8 +25,10 @@ public class EmployeeDaoImpl implements IEmployeeDao {
 		System.out.println("EmployeeDaoImpl object is instantiated:: Zero param constructor");
 	}
 
-	private static final String SQL_INSERT_QUERY = "insert into employee(`ename`,`eage`,`eaddress`) values(?,?,?)";
-	private static final String SQL_SELECT_QUERY = "select eid,ename,eage,eaddress from employee";
+	private static final String SQL_INSERT_QUERY = "insert into employees(`ename`,`eage`,`eaddress`) values(?,?,?)";
+	private static final String SQL_SELECT_QUERY = "select eid,ename,eage,eaddress from employees";
+	private static final String SQL_SELECT_BY_ID_QUERY = "SELECT `eid`, `ename`, `eage`, `eaddress` FROM employees WHERE `eid` = ?";
+
 	
 	@Autowired
 	private DataSource dataSource;
@@ -80,12 +82,32 @@ public class EmployeeDaoImpl implements IEmployeeDao {
 
 	@Override
 	public EmployeeBO findById(Integer eid) {
-		try (Connection connection = dataSource.getConnection()) {
+		EmployeeBO empbo = new EmployeeBO();
+		try (Connection connection = dataSource.getConnection();
+				PreparedStatement pstmt= connection.prepareStatement(SQL_SELECT_BY_ID_QUERY)) {
+			
+			pstmt.setInt(1, eid);
+			
+			ResultSet rs= pstmt.executeQuery();
+			
+			if(rs.next()) {
+				empbo.setEid(rs.getInt("eid"));
+				empbo.setEname(rs.getString("ename"));
+				empbo.setEage(rs.getInt("eage"));
+				empbo.setEaddress(rs.getString("eaddress"));
+				
+			}
+			
+			
+			
+			
+			
+			
 			System.out.println(connection);
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-		return null;
+		return empbo;
 	}
 
 	@Override

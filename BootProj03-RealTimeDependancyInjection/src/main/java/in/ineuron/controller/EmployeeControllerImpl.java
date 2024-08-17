@@ -53,8 +53,17 @@ public class EmployeeControllerImpl implements IEmployeeController {
 
 	@Override
 	public EmployeeVO findById(Integer eid) {
-		service.findById(eid);
-		return null;
+		EmployeeDTO empdto= service.findById(eid);
+		
+		EmployeeVO empvo= new EmployeeVO();
+		empvo.setEid(String.valueOf(empdto.getEid()));
+		empvo.setEaddress(empdto.getEaddress());
+		empvo.setEage(String.valueOf(empdto.getEage()));
+		empvo.setEname(empdto.getEname());
+		
+		
+		
+		return empvo;
 	}
 
 	@Override

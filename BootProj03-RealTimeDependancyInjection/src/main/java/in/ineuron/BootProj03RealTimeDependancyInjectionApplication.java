@@ -25,7 +25,9 @@ public class BootProj03RealTimeDependancyInjectionApplication {
 
 		int choice = 0;
 		String ename = null, eage = null, eaddress = null;
+				String eid=null;
 		List<EmployeeVO> employees = null;
+		EmployeeVO empvo =null;
 		Scanner scanner = new Scanner(System.in);
 		try {
 			while (true) {
@@ -58,6 +60,16 @@ public class BootProj03RealTimeDependancyInjectionApplication {
 					break;
 
 				case 2:
+					System.out.println("Enter the id : ");
+					eid = scanner.next();
+					empvo = controller.findById(Integer.parseInt(eid));
+					
+					if(empvo != null) {
+						System.out.println(empvo);
+					}else {
+						System.out.println(eid+"not found");
+					}
+					
 					break;
 				case 3:
 					employees = controller.findAllEmployees();

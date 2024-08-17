@@ -53,8 +53,21 @@ public class EmployeeServiceImpl implements IEmployeeService {
 
 	@Override
 	public EmployeeDTO findById(Integer eid) {
-		dao.findById(eid);
-		return null;
+		EmployeeBO empbo= dao.findById(eid);
+		EmployeeDTO empdto = new EmployeeDTO();
+		
+		if(empbo!=null) {
+			empdto.setEid(empbo.getEid());
+			empdto.setEaddress(empbo.getEaddress());
+			empdto.setEage(empbo.getEage());
+			empdto.setEname(empbo.getEname());
+			
+			
+			
+		}
+		
+		
+		return empdto;
 	}
 
 	@Override
