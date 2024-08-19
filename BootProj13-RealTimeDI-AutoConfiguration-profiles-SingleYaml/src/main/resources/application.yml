@@ -1,0 +1,55 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root123
+    url: jdbc:mysql:///enterprisejavabatch
+    username: root
+  profiles:
+    active: default
+    
+---    
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root123
+    url: jdbc:mysql:///enterprisejavabatch
+    username: root
+  config:
+    activate:
+      on-profile: dev
+---
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: root123
+    url: jdbc:oracle:thin:@localhost:1521:XE
+    username: System
+  config:
+    activate:
+      on-profile: test
+---
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root123
+    type: org.apache.commons.dbcp2.BasicDataSource
+    url: jdbc:mysql:///enterprisejavabatch
+    username: root
+  config:
+    activate:
+      on-profile: uat
+---
+
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: root123
+    url: jdbc:oracle:thin:@localhost:1521:XE
+    username: System
+  config:
+    activate:
+      on-profile: prod
+
+    
+    
+

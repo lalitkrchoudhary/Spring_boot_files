@@ -22,6 +22,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/lalit/spring_boot_files/05ConfigurationProperties"/>
 			<item value="/home/lalit/spring_boot_files/BootProj07-DependancyInjection-JavaConfiguration"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -46,13 +47,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="in.lalit"/>
+			<item value="org.MessageApp"/>
 		</list>
 		<list key="groupId">
 			<item value="lalit"/>
 		</list>
 		<list key="artifactId">
-			<item value="Project1"/>
+			<item value="MessageApp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -63,15 +64,18 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="lalit"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MessageApp"/>
+			<item value="MavenMultiModule"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -82,7 +86,31 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0"/>
 		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="MessageApp"/>
+			<item value="MessageAppService"/>
+			<item value="MessageService"/>
+			<item value="WishMessageModule"/>
+			<item value="WishServiceModule"/>
+			<item value="WishMessageService14Module"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="696"/>
+		<item key="x" value="443"/>
+		<item key="y" value="47"/>
 	</section>
 </section>
