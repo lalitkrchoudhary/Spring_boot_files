@@ -3213,3 +3213,289 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected ST
 2024-08-19 06:06:21,480 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2024-08-19 06:06:21,485 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-08-19 06:06:21,486 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-19 07:20:55,933 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-19 07:21:16,813 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MavenProject1: lalit:Project1:0.0.1-SNAPSHOT with classifier  to /MavenProject1/target/classes
+2024-08-19 07:21:23,914 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 07:21:23,914 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/MavenMultiModule/WishMessageModule/src/main/resources
+2024-08-19 07:21:23,938 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 07:21:23,938 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/MavenMultiModule/WishMessageModule/src/test/resources
+2024-08-19 07:21:26,134 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WishMessageModule: lalit:WishMessageModule:1.0 with classifier  to /WishMessageModule/target/classes
+2024-08-19 07:21:26,612 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 07:21:26,638 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-19 07:21:26,657 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 07:21:26,658 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-19 08:43:05,262 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-19 08:43:27,551 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MavenProject1: lalit:Project1:0.0.1-SNAPSHOT with classifier  to /MavenProject1/target/classes
+2024-08-19 08:43:31,785 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-08-19 08:43:31,792 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-08-19 08:43:31,803 [Worker-7: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-08-19 08:43:31,804 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/lalit/spring_boot_files/WishApp/src/test/resources
+2024-08-19 08:43:40,105 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 08:43:40,106 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/MavenMultiModule/WishMessageModule/src/main/resources
+2024-08-19 08:43:40,113 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 08:43:40,113 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/MavenMultiModule/WishMessageModule/src/test/resources
+2024-08-19 08:43:42,047 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WishMessageModule: lalit:WishMessageModule:1.0 with classifier  to /WishMessageModule/target/classes
+2024-08-19 08:43:42,340 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 08:43:42,341 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-19 08:43:42,345 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 08:43:42,346 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-08-19 11:03:42,611 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [632])
+2024-08-19 11:03:42,615 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-08-19 11:03:42,616 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-08-19 11:03:42,616 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-08-19 11:03:42,616 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-08-19 11:03:42,616 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-08-19 11:03:42,616 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-08-19 11:03:42,617 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-08-19 11:03:42,618 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-08-19 11:03:42,619 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-08-19 11:03:42,619 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-08-19 11:03:42,619 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-08-19 11:03:42,620 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-08-19 11:03:42,620 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-08-19 11:03:42,620 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-08-19 11:03:42,620 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-08-19 11:03:42,620 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-08-19 11:03:42,620 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-08-19 11:03:42,621 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-08-19 11:03:42,622 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-08-19 11:03:42,622 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-08-19 11:03:42,622 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-08-19 11:03:42,622 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-08-19 11:03:42,622 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-08-19 11:03:42,622 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-08-19 11:03:42,628 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-08-19 11:03:42,628 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/com.google.guava_33.0.0.jre.jar
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [993])
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/slf4j.api_2.0.12.jar
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.cli_1.6.0.jar
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-08-19 11:03:42,629 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-08-19 11:03:42,630 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-08-19 11:03:42,630 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-08-19 11:03:42,630 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-08-19 11:03:42,645 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/tmp/m2e-archetypeGenerator12562966495796665559":
+2024-08-19 11:03:42,659 [Worker-34: Launching mavenrun-9be8ca6e-3bdd-4f2e-b7a7-31339aeaeb50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=ineuron -DartifactId=log4j01 -Dversion=0.0.1-SNAPSHOT -Dpackage=in.ineuron -DoutputDirectory=/home/lalit/spring_boot_files -B -Dstyle.color=always -U archetype:generate
+2024-08-19 11:04:00,776 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/lalit/spring_boot_files/log4j01/pom.xml
+2024-08-19 11:04:01,946 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ineuron:log4j01:0.0.1-SNAPSHOT @ /home/lalit/spring_boot_files/log4j01/pom.xml.
+2024-08-19 11:04:02,460 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j01/src/main/java
+2024-08-19 11:04:02,462 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j01/src/main/resources
+2024-08-19 11:04:02,465 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j01/src/test/java
+2024-08-19 11:04:02,466 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j01/src/test/resources
+2024-08-19 11:04:02,589 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-08-19 11:04:03,137 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:04:03,137 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/main/resources
+2024-08-19 11:04:03,142 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:04:03,142 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/test/resources
+2024-08-19 11:06:43,951 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ineuron:log4j01:0.0.1-SNAPSHOT @ /home/lalit/spring_boot_files/log4j01/pom.xml.
+2024-08-19 11:06:44,360 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2024-08-19 11:06:44,385 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2024-08-19 11:06:44,470 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2024-08-19 11:06:44,725 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2024-08-19 11:06:44,790 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:06:44,790 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/main/resources
+2024-08-19 11:06:44,795 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:06:44,795 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/test/resources
+2024-08-19 11:06:46,050 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2024-08-19 11:06:46,105 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:06:46,105 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/main/resources
+2024-08-19 11:06:46,112 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:06:46,112 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/test/resources
+2024-08-19 11:06:46,498 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2024-08-19 11:06:46,499 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for log4j:log4j:1.2.17
+2024-08-19 11:28:36,533 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ineuron:log4j01:0.0.1-SNAPSHOT @ /home/lalit/spring_boot_files/log4j01/pom.xml.
+2024-08-19 11:28:36,592 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:28:36,592 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/main/resources
+2024-08-19 11:28:36,599 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:28:36,600 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/test/resources
+2024-08-19 11:29:54,040 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:29:54,041 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/main/resources
+2024-08-19 11:29:54,045 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:29:54,045 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/test/resources
+2024-08-19 11:30:17,958 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-08-19 11:30:18,338 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ineuron:log4j01:0.0.1-SNAPSHOT @ /home/lalit/spring_boot_files/log4j01/pom.xml.
+2024-08-19 11:30:18,401 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j01/src/main/java
+2024-08-19 11:30:18,402 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j01/src/main/resources
+2024-08-19 11:30:18,403 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /log4j01/src/test/java
+2024-08-19 11:30:18,404 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /log4j01/src/test/resources
+2024-08-19 11:30:18,591 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-08-19 11:30:18,792 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:30:18,792 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/main/resources
+2024-08-19 11:30:18,805 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:30:18,805 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/log4j01/src/test/resources
+2024-08-19 11:55:47,598 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ineuron:Log4j-01:0.0.1-SNAPSHOT @ /home/lalit/spring_boot_files/Log4j-01/pom.xml.
+2024-08-19 11:55:47,744 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:55:47,746 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/main/resources
+2024-08-19 11:55:47,753 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:55:47,753 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/test/resources
+2024-08-19 11:55:48,299 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:55:48,300 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/main/resources
+2024-08-19 11:55:48,314 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 11:55:48,314 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/test/resources
+2024-08-19 12:18:29,621 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-08-19 12:19:14,838 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [632])
+2024-08-19 12:19:14,838 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-08-19 12:19:14,839 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-08-19 12:19:14,839 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-08-19 12:19:14,839 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-08-19 12:19:14,839 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-08-19 12:19:14,839 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-08-19 12:19:14,840 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-08-19 12:19:14,841 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-08-19 12:19:14,842 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-08-19 12:19:14,843 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-08-19 12:19:14,844 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-08-19 12:19:14,844 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-08-19 12:19:14,844 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/com.google.guava_33.0.0.jre.jar
+2024-08-19 12:19:14,844 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [993])
+2024-08-19 12:19:14,844 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/slf4j.api_2.0.12.jar
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.cli_1.6.0.jar
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-08-19 12:19:14,845 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-08-19 12:19:14,846 [Worker-55: Launching Log4j-01] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-08-19 12:19:14,847 [Worker-55: Launching Log4j-01] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/lalit/spring_boot_files/Log4j-01":
+2024-08-19 12:19:14,847 [Worker-55: Launching Log4j-01] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always ecec:java
+2024-08-19 12:20:48,314 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 12:20:48,314 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/main/resources
+2024-08-19 12:20:48,321 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 12:20:48,322 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/test/resources
+2024-08-19 12:20:53,863 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-08-19 12:21:01,394 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [632])
+2024-08-19 12:21:01,395 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-08-19 12:21:01,395 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-08-19 12:21:01,395 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-08-19 12:21:01,395 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-08-19 12:21:01,395 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-08-19 12:21:01,395 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-08-19 12:21:01,396 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-08-19 12:21:01,397 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-08-19 12:21:01,398 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2024-08-19 12:21:01,399 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/com.google.guava_33.0.0.jre.jar
+2024-08-19 12:21:01,399 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [993])
+2024-08-19 12:21:01,399 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/slf4j.api_2.0.12.jar
+2024-08-19 12:21:01,399 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2024-08-19 12:21:01,399 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-08-19 12:21:01,399 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2024-08-19 12:21:01,400 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2024-08-19 12:21:01,400 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2024-08-19 12:21:01,400 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.cli_1.6.0.jar
+2024-08-19 12:21:01,400 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2024-08-19 12:21:01,400 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-08-19 12:21:01,400 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2024-08-19 12:21:01,401 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-08-19 12:21:01,401 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2024-08-19 12:21:01,401 [Worker-55: Launching Log4j-01 (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /usr/lib/eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-08-19 12:21:01,402 [Worker-55: Launching Log4j-01 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/lalit/spring_boot_files/Log4j-01":
+2024-08-19 12:21:01,403 [Worker-55: Launching Log4j-01 (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always exec:java
+2024-08-19 12:22:09,179 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-08-19 12:22:09,248 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ineuron:Log4j-01:0.0.1-SNAPSHOT @ /home/lalit/spring_boot_files/Log4j-01/pom.xml.
+2024-08-19 12:22:09,321 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Log4j-01/src/main/java
+2024-08-19 12:22:09,321 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4j-01/src/main/resources
+2024-08-19 12:22:09,322 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Log4j-01/src/test/java
+2024-08-19 12:22:09,322 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Log4j-01/src/test/resources
+2024-08-19 12:22:09,631 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-08-19 12:22:09,945 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 12:22:09,945 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/main/resources
+2024-08-19 12:22:09,948 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-19 12:22:09,948 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lalit/spring_boot_files/Log4j-01/src/test/resources
+2024-08-21 02:25:01,596 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-21 02:25:02,480 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-08-22 06:19:57,329 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-22 06:19:58,714 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
