@@ -5803,3 +5803,114 @@ END
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-22 06:20:00.656
 !MESSAGE Started org.springframework.tooling.boot.ls LS process 8221
+!SESSION 2024-08-23 06:06:31.801 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-08-23 06:06:58.819
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-23 06:06:59.631
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-08-23 06:07:36.167
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-23 06:07:39.955
+!MESSAGE Logback config file: /home/lalit/spring_boot_files/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-23 06:07:41.935
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-23 06:07:41.935
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-23 06:07:43.330
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-23 06:07:43.330
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:07:59.682
+!MESSAGE Boot project ADDED: 05ConfigurationProperties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:07:59.683
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:07:59.952
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:07:59.992
+!MESSAGE Boot project ADDED: 11RealTimeDI-AutoConfiguration-profiles
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-23 06:08:00.117
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/lalit/spring_boot_files/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1724373480116
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.118
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-23 06:08:00.170
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 8183
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.222
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.279
+!MESSAGE Boot project ADDED: BootProj03-RealTimeDependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.399
+!MESSAGE Boot project ADDED: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.413
+!MESSAGE Boot project ADDED: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.462
+!MESSAGE Boot project ADDED: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.468
+!MESSAGE Boot project ADDED: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.620
+!MESSAGE Boot project ADDED: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:00.819
+!MESSAGE Boot project ADDED: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.056
+!MESSAGE Boot project ADDED: BootProj11-RealTimeDI-AutoConfiguration-profiles
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.115
+!MESSAGE Boot project ADDED: BootProj12-BootRunners-SpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.143
+!MESSAGE Boot project ADDED: BootProj12-RealTimeDI-AutoConfiguration-profiles-Yaml
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.224
+!MESSAGE Boot project ADDED: BootProj13-RealTimeDI-AutoConfiguration-profiles-SingleYaml
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.451
+!MESSAGE Boot project ADDED: ConfigurationProperties4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.957
+!MESSAGE Boot project ADDED: FirstProject1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.961
+!MESSAGE Boot project ADDED: SecondProject2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-23 06:08:01.962
+!MESSAGE Boot project ADDED: SpringMavenProject
