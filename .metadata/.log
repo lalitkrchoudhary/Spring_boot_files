@@ -6094,3 +6094,177 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-24 11:37:28.178
 !MESSAGE Boot project ADDED: DaoUsingJDBCTemplateCaallBackMethodSpringBoot
+
+!ENTRY org.eclipse.core.resources 4 273 2024-08-24 11:39:18.956
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.base/java.io.DataInputStream.readUnsignedByte(DataInputStream.java:290)
+	at java.base/java.io.DataInputStream.readByte(DataInputStream.java:268)
+	at org.eclipse.core.internal.localstore.Bucket.loadEntries(Bucket.java:369)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:343)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:310)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:108)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:83)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:189)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1252)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2489)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:553)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2024-08-24 11:39:18.960
+!MESSAGE Could not read metadata for '/home/lalit/spring_boot_files/.metadata/.plugins/org.eclipse.core.resources/.projects/BootProj03-RealTimeDependancyInjection/.indexes/e4/b9/22/25/1c/92/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readUnsignedByte(DataInputStream.java:290)
+	at java.base/java.io.DataInputStream.readByte(DataInputStream.java:268)
+	at org.eclipse.core.internal.localstore.Bucket.loadEntries(Bucket.java:369)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:343)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:310)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:108)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:119)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:83)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:189)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1252)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2489)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:553)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+!SESSION 2024-08-25 14:31:12.457 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-08-25 14:31:34.489
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-25 14:31:35.444
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-25 14:31:45.951
+!MESSAGE Logback config file: /home/lalit/spring_boot_files/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-25 14:31:47.452
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-25 14:31:47.452
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-25 14:31:48.444
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-25 14:31:48.444
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:05.763
+!MESSAGE Boot project ADDED: 05ConfigurationProperties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:05.763
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.081
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.082
+!MESSAGE Boot project ADDED: 11RealTimeDI-AutoConfiguration-profiles
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.082
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.088
+!MESSAGE Boot project ADDED: BootProj03-RealTimeDependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.089
+!MESSAGE Boot project ADDED: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.090
+!MESSAGE Boot project ADDED: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.090
+!MESSAGE Boot project ADDED: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.091
+!MESSAGE Boot project ADDED: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.091
+!MESSAGE Boot project ADDED: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.092
+!MESSAGE Boot project ADDED: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.097
+!MESSAGE Boot project ADDED: BootProj11-RealTimeDI-AutoConfiguration-profiles
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.098
+!MESSAGE Boot project ADDED: BootProj12-BootRunners-SpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.098
+!MESSAGE Boot project ADDED: BootProj12-RealTimeDI-AutoConfiguration-profiles-Yaml
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.099
+!MESSAGE Boot project ADDED: BootProj13-RealTimeDI-AutoConfiguration-profiles-SingleYaml
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.099
+!MESSAGE Boot project ADDED: ConfigurationProperties4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.100
+!MESSAGE Boot project ADDED: DaoProject1XMLUsingSpringJDBC
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.103
+!MESSAGE Boot project ADDED: DaoUsingJDBCTemplateCaallBackMethodSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.104
+!MESSAGE Boot project ADDED: DaoUsingJDBCTemplateDirectMethodInSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.105
+!MESSAGE Boot project ADDED: FirstProject1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.106
+!MESSAGE Boot project ADDED: SecondProject2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.108
+!MESSAGE Boot project ADDED: SpringMavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-25 14:32:06.528
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/lalit/spring_boot_files/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1724576526526
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:06.528
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-25 14:32:06.535
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 258169
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:34.351
+!MESSAGE Classpath changed for project: DaoUsingJDBCTemplateCaallBackRowHandlerMethodSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:39.749
+!MESSAGE Classpath changed for project: DaoUsingJDBCTemplateCaallBackRowHandlerMethodSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:53.113
+!MESSAGE Classpath changed for project: DaoUsingJDBCTemplateCaallBackRowHandlerMethodSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:53.113
+!MESSAGE Boot project ADDED: DaoUsingJDBCTemplateCaallBackRowHandlerMethodSpringBoot
