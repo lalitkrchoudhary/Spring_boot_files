@@ -6268,3 +6268,162 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-25 14:32:53.113
 !MESSAGE Boot project ADDED: DaoUsingJDBCTemplateCaallBackRowHandlerMethodSpringBoot
+!SESSION 2024-08-26 12:30:03.627 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-08-26 12:30:26.810
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-26 12:30:27.592
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-08-26 12:30:34.438
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-26 12:30:37.461
+!MESSAGE Logback config file: /home/lalit/spring_boot_files/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-26 12:30:38.847
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-26 12:30:38.847
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-26 12:30:40.021
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-26 12:30:40.021
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.410
+!MESSAGE Boot project ADDED: 05ConfigurationProperties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.411
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.645
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.646
+!MESSAGE Boot project ADDED: 11RealTimeDI-AutoConfiguration-profiles
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.651
+!MESSAGE Boot project ADDED: BootProj02-DependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.654
+!MESSAGE Boot project ADDED: BootProj03-RealTimeDependancyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.654
+!MESSAGE Boot project ADDED: BootProj05-BeanInjectionWithCollectionPropertiesUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.655
+!MESSAGE Boot project ADDED: BootProj06-RealTimeDIUsingYML
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.655
+!MESSAGE Boot project ADDED: BootProj07-DependancyInjection-JavaConfiguration
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.657
+!MESSAGE Boot project ADDED: BootProj08-RealTimeDIUsingYML-ExcludingHikariCPConfig
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.657
+!MESSAGE Boot project ADDED: BootProj09-RealTimeDIUsingYML-ManualDataSourceInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.658
+!MESSAGE Boot project ADDED: BootProj10-UsageofSpel-@ValueAnnotation
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.658
+!MESSAGE Boot project ADDED: BootProj11-RealTimeDI-AutoConfiguration-profiles
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.660
+!MESSAGE Boot project ADDED: BootProj12-BootRunners-SpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.661
+!MESSAGE Boot project ADDED: BootProj12-RealTimeDI-AutoConfiguration-profiles-Yaml
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.663
+!MESSAGE Boot project ADDED: BootProj13-RealTimeDI-AutoConfiguration-profiles-SingleYaml
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.665
+!MESSAGE Boot project ADDED: ConfigurationProperties4
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.665
+!MESSAGE Boot project ADDED: DaoProject1XMLUsingSpringJDBC
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.666
+!MESSAGE Boot project ADDED: DaoUsingJDBCTemplateCaallBackMethodSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.666
+!MESSAGE Boot project ADDED: DaoUsingJDBCTemplateCaallBackRowHandlerMethodSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.668
+!MESSAGE Boot project ADDED: DaoUsingJDBCTemplateDirectMethodInSpringBoot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.672
+!MESSAGE Boot project ADDED: FirstProject1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.673
+!MESSAGE Boot project ADDED: SecondProject2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.674
+!MESSAGE Boot project ADDED: SpringMavenProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-26 12:30:59.896
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/usr/lib/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/usr/lib/eclipse/../../../home/lalit/.eclipse/org.eclipse.platform_4.31.0_155965261_linux_gtk_x86_64/plugins/org.springframework.tooling.boot.ls_1.56.0.202407191456/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/lalit/spring_boot_files/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1724655659895
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:30:59.899
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-26 12:30:59.910
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 242033
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:31:44.252
+!MESSAGE Classpath changed for project: DaoUsingNamedJdbcTemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:31:45.418
+!MESSAGE Classpath changed for project: DaoUsingNamedJdbcTemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:31:54.079
+!MESSAGE Classpath changed for project: DaoUsingNamedJdbcTemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-26 12:31:54.079
+!MESSAGE Boot project ADDED: DaoUsingNamedJdbcTemplate
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-26 12:31:54.918
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-08-26 12:31:54.926
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-26 12:31:58.635
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-26 12:31:58.636
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-26 12:31:58.641
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-26 12:31:58.642
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-26 12:31:58.663
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-08-26 12:31:58.674
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
